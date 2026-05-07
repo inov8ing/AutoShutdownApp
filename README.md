@@ -26,7 +26,7 @@ A open-source Windows floating widget that automatically shuts down your compute
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/ino8ing/AutoShutdownApp.git
+git clone https://github.com/inov8ing/AutoShutdownApp.git
 cd AutoShutdownApp
 ```
 
