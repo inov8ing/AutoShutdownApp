@@ -1,6 +1,6 @@
 # AutoShutdown Widget ⚡
 
-A open-source Windows floating widget that automatically shuts down your computer based on system resource usage (CPU, RAM, Disk) and user inactivity.
+An open-source Windows floating widget that automatically shuts down your computer based on system resource usage (CPU, RAM, Disk) and user inactivity.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
@@ -57,4 +57,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-Created with ❤️ by Rizwan.
+Created with ❤️ by Rizwan Ali.
